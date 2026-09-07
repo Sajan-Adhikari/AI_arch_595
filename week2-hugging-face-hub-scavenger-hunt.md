@@ -33,11 +33,11 @@ Where to find each field, if you get stuck:
 | Model | Link | Parameter count / size | Architecture family | License | Tokenizer / vocab size |
 |---|---|---|---|---|---|
 
-| Model 1: deepseek-ai/DeepSeek-R1| https://huggingface.co/deepseek-ai/DeepSeek-R1| 685B params |DeepseekV3ForCausalLM|MIT License|129280|
+| Model 1: deepseek-ai/DeepSeek-R1| https://huggingface.co/deepseek-ai/DeepSeek-R1 | 685B params |DeepseekV3ForCausalLM|MIT License|129280|
 
-| Model 2:  GPT-2 |https://huggingface.co/openai-community/gpt2|0.1B params |GPT2LMHeadModel| MIT License| 50257|
+| Model 2:  GPT-2 |https://huggingface.co/openai-community/gpt2 |0.1B params |GPT2LMHeadModel| MIT License| 50257|
 
-| Model 3: Qwen/Qwen2.5-72B |https://huggingface.co/Qwen/Qwen-72B| 72B params | Qwen2ForCausalLM |Qwen LICENSE AGREEMENT | 152064 |
+| Model 3: Qwen/Qwen2.5-72B |https://huggingface.co/Qwen/Qwen-72B | 72B params | Qwen2ForCausalLM |Qwen LICENSE AGREEMENT | 152064 |
 
 ## Part 3: Tokenizer Comparison Exercise
 
